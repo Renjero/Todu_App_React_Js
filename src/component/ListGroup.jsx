@@ -1,5 +1,4 @@
-import ListItems from 'component/ListItems.jsx'
-
+import ListItems from "./ListItems";
 
 
 // const ListGroup = ({ numbers}) =>{
