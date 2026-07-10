@@ -1,4 +1,4 @@
-import ListItems from '/Users/renjiro_robin/web_devlepment/React Js/Tudu-App/src/component/ListItems.jsx'
+import ListItems from 'component/ListItems.jsx'
 
 
 
