@@ -5,7 +5,7 @@ import ListGroup from './component/ListGroup.jsx'
 import Footer from './component/footer.jsx'
 import Form from './component/Form.jsx'
 import { useState } from 'react'
-import ListGroup from "./component/ListGroup";
+
  
 
 function App() {
