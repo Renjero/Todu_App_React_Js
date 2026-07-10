@@ -1,31 +1,67 @@
-# 🚀 React.js Learning Journey
+# <div align="center">⚛️ React.js Learning Journey</div>
 
-> 💡 *Learning React.js one concept at a time by building real projects.*
+<div align="center">
 
-## 📅 Progress Tracker
+### 🚀 *Learning React by building projects every day.*
 
-|             📆 Day             | 📖 Learned                                                      | 💻 Built                                             |
-| :----------------------------: | --------------------------------------------------------------- | ---------------------------------------------------- |
-| **🚀 Day 1**<br>**3 Jul 2026** | React Basics, Vite Setup, JSX, Project Structure                | ✅ First React Project                                |
-| **🧩 Day 2**<br>**6 Jul 2026** | Components, UI Componentization                                 | 🎨 Built UI & Split into Reusable Components         |
-| **🔗 Day 3**<br>**7 Jul 2026** | Props, Default Props, Props Drilling, `map()`                   | 📋 Dynamic List Rendering & Parent → Child Data Flow |
-| **⚛️ Day 4**<br>**9 Jul 2026** | `useState`, State, Event Handling, Arrays, `map()`              | 🔢 Counter App & Dynamic List Rendering              |
-| **✅ Day 5**<br>**11 Jul 2026** | State vs Normal Arrays, Reverse Props Drilling, `filter()`, HOF | 📝 Todo App, Delete Todo, Delete All, GitHub Upload  |
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-React.js-61DAFB?style=flat-square\&logo=react)
+![Status](https://img.shields.io/badge/Status-Daily%20Learning-success?style=flat-square)
+
+</div>
+
+---
+
+## 📈 Progress
+
+|             📅 Date             | 📚 Concepts Learned                                                                                   | 🛠️ Project / Practice                                            |
+| :-----------------------------: | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **🚀 Day 1**<br>**03 Jul 2026** | React Basics • JSX • Vite Setup • Project Structure                                                   | ✅ Created my first React application                              |
+| **🧩 Day 2**<br>**06 Jul 2026** | Functional Components • Component-Based Architecture • Reusable UI                                    | 🎨 Designed the UI and divided it into reusable components        |
+| **🔗 Day 3**<br>**07 Jul 2026** | Props • Default Props • Props Drilling • `map()` • Dynamic Rendering                                  | 📋 Passed data between components and rendered dynamic lists      |
+| **⚛️ Day 4**<br>**09 Jul 2026** | `useState` • State Management • Event Handling • Arrays in State • Re-rendering                       | 🔢 Built a Counter App and rendered lists from array data         |
+|  **✅ Day 5**<br>**11 Jul 2026** | State vs Variables • Reverse Props Drilling • Higher-Order Functions • `filter()` • Immutable Updates | 📝 Built Todo App • Delete Todo • Delete All • Uploaded to GitHub |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<div align="center">
 
-### 🎯 Goal
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,git,github,vscode" />
 
-Build real-world React projects daily and become a **Full-Stack MERN Developer**.
+</div>
 
-⭐ **Consistent learning. Better code every day.**
+---
+
+## 📚 Currently Learning
+
+```text
+✔ React Fundamentals
+✔ Components
+✔ Props
+✔ State (useState)
+✔ Event Handling
+✔ List Rendering
+✔ Todo App
+⬜ useEffect
+⬜ React Router
+⬜ Context API
+⬜ API Integration
+```
+
+---
+
+## 🎯 Goal
+
+> Build real-world React projects consistently and become a **MERN Stack Developer**.
+
+---
+
+<div align="center">
+
+### ⭐ Every day, one step closer to becoming a better developer.
+
+**Thanks for visiting my repository!** 🚀
+
+</div>
